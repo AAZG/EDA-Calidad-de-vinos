@@ -42,5 +42,10 @@ El proyecto se realizo de manera individual, aunque igualmente se agradece a tod
 anonimas que contribuyen con codigo y librerias de manera gratuita en la web.
 
 
+## Puedes utilizar Deepnote para visualizar el proyecto y trabajar interactivamente con los notebooks siguiendo el enlace de este botón:
+
+[<img src="https://deepnote.com/buttons/try-in-a-jupyter-notebook.svg">](https://deepnote.com/@aazg/Proyecto-Analisis-Exploratorio-de-Datos-calidad-de-vinos-538a5c52-b411-473f-a403-a1e641af9912)
+
+
 ## Licencia.
 Este proyecto es OpenSource, siente en libertad de copiarlo y mejorarlo tanto como deesees.
